@@ -1,2 +1,4 @@
-# Project-5
-Proyecto semana 7 Ironhack
+
+![Alt Text](output/KaggleCompetition.gif)
+
+
